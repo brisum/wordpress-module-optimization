@@ -1,0 +1,21 @@
+{
+  "name": "brisum/wordpress-module-optimization",
+  "description": "Wordpress module optimization",
+  "keywords": [
+    "wordpress"
+  ],
+  "homepage": "https://github.com/brisum/wordpress-module-optimization",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Brisum\\Wordpress\\Optimization\\": "src/"
+    }
+  }
+}
